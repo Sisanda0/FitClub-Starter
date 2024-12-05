@@ -8,7 +8,7 @@ const Header = () => {
 
             <img src={Logo} alt="" className='logo' />
 
-            <ul>
+            <ul className='header-menu'>
                 <li>Home</li>
                 <li>Programs</li>
                 <li>Why us</li>
